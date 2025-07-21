@@ -1,4 +1,5 @@
 # 🛠️ Inventor IPT Description Updater
+<img width="665" height="603" alt="VPD1RzGm48NlaV8VHk702GwKGza3DDtjIaZ0eLMHUfp6inihZiUonmtzzqmI5C9sYtDnCi_VUndRLqamIkvTMRo5RKx2FQJEUa1lO42Xs6FiocBy5Z2YLbiqF5X_18cPrfL7RBfZvEpDbXr7UBFVZSzQqYfsY5Q4F1pGfN_M6pfWTh9d" src="https://github.com/user-attachments/assets/b4e6792e-3d95-4398-8cce-00b5d7aae0f3" />
 
 A simple VBA macro for Autodesk Inventor that removes existing descriptions and applies a new user-defined description to all open `.ipt` (Part) files. Created by **Ashish924**.
 
